@@ -1,7 +1,5 @@
 # Movie List (C Programming)
 > C언어 수업 과제 | 1학년
-
-## Description
 영화 목록을 관리하는 C언어 프로그램입니다.
 
 ## Tech Stack
